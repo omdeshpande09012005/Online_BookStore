@@ -70,10 +70,6 @@ Online-Bookstore/
 │ ├── triggers.sql # Triggers for validation
 │ └── cursors.sql # Reporting Cursors
 
-yaml
-Copy
-Edit
-
 ## 🛠️ Setup Instructions
 
 1. Clone this repository:
