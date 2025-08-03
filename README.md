@@ -46,41 +46,11 @@ An end-to-end Online Bookstore web application built using **HTML**, **CSS**, **
 
 ---
 
-## 📁 Project Structure
-
-Online-Bookstore/
-│
-├── index.html # Homepage
-├── login.php # User Login
-├── register.php # User Registration
-├── dashboard.php # User Dashboard
-├── my_orders.php # View Orders
-├── write_review.php # Post-purchase Review
-├── admin_login.php # Admin Login
-├── admin_reviews.php # Admin View of Reviews
-│
-├── css/
-│ └── style.css # Main CSS styles
-│
-├── sql/
-│ ├── schema.sql # Table Creation Queries
-│ ├── insert.sql # Sample Data
-│ ├── procedures.sql # Stored Procedures
-│ ├── functions.sql # User-defined Functions
-│ ├── triggers.sql # Triggers for validation
-│ └── cursors.sql # Reporting Cursors
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠️ Setup Instructions
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/online-bookstore.git
+   git clone https://github.com/omdeshpande09012005/Online_BookStore.git
 Import the database:
 
 Open phpMyAdmin
