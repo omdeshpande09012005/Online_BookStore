@@ -46,30 +46,6 @@ An end-to-end Online Bookstore web application built using **HTML**, **CSS**, **
 
 ---
 
-## 📁 Project Structure
-
-Online-Bookstore/
-│
-├── index.html # Homepage
-├── login.php # User Login
-├── register.php # User Registration
-├── dashboard.php # User Dashboard
-├── my_orders.php # View Orders
-├── write_review.php # Post-purchase Review
-├── admin_login.php # Admin Login
-├── admin_reviews.php # Admin View of Reviews
-│
-├── css/
-│ └── style.css # Main CSS styles
-│
-├── sql/
-│ ├── schema.sql # Table Creation Queries
-│ ├── insert.sql # Sample Data
-│ ├── procedures.sql # Stored Procedures
-│ ├── functions.sql # User-defined Functions
-│ ├── triggers.sql # Triggers for validation
-│ └── cursors.sql # Reporting Cursors
-
 ## 🛠️ Setup Instructions
 
 1. Clone this repository:
