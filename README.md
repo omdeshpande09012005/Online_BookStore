@@ -50,7 +50,7 @@ An end-to-end Online Bookstore web application built using **HTML**, **CSS**, **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/online-bookstore.git
+   git clone https://github.com/omdeshpande09012005/Online_BookStore.git
 Import the database:
 
 Open phpMyAdmin
